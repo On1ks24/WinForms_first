@@ -1,0 +1,9 @@
+E:\kekit\ekurs-5(semestr2)p2\BLogic\bin\Debug\BLogic.dll
+E:\kekit\ekurs-5(semestr2)p2\BLogic\bin\Debug\BLogic.pdb
+E:\kekit\ekurs-5(semestr2)p2\BLogic\bin\Debug\Model.dll
+E:\kekit\ekurs-5(semestr2)p2\BLogic\bin\Debug\Model.pdb
+E:\kekit\ekurs-5(semestr2)p2\BLogic\obj\Debug\BLogic.csproj.AssemblyReference.cache
+E:\kekit\ekurs-5(semestr2)p2\BLogic\obj\Debug\BLogic.csproj.CoreCompileInputs.cache
+E:\kekit\ekurs-5(semestr2)p2\BLogic\obj\Debug\BLogic.csproj.CopyComplete
+E:\kekit\ekurs-5(semestr2)p2\BLogic\obj\Debug\BLogic.dll
+E:\kekit\ekurs-5(semestr2)p2\BLogic\obj\Debug\BLogic.pdb

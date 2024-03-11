@@ -1,0 +1,16 @@
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\ekurs-5(semestr2)p2.exe.config
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\ekurs-5(semestr2)p2.exe
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\ekurs-5(semestr2)p2.pdb
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\BLogic.dll
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\Model.dll
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\BLogic.pdb
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\bin\Debug\Model.pdb
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.csproj.AssemblyReference.cache
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.csproj.SuggestedBindingRedirects.cache
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs_5_semestr2_p2.Form1.resources
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs_5_semestr2_p2.Properties.Resources.resources
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.csproj.GenerateResource.cache
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.csproj.CoreCompileInputs.cache
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.csproj.CopyComplete
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.exe
+E:\kekit\ekurs-5(semestr2)p2\ekurs-5(semestr2)p2\obj\Debug\ekurs-5(semestr2)p2.pdb
